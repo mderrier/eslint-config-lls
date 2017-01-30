@@ -2,6 +2,7 @@
   "name": "eslint-config-lls",
   "version": "0.0.1",
   "main": "eslintrc.json",
+  "description": "ESLint configuration for LLS projects.",
   "repository": "https://github.com/mderrier/eslint-config-lls.git",
   "author": "mderrier <maximilien.derrier@gmail.com>",
   "license": "MIT",
