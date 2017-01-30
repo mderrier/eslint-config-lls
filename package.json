@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-lls",
+  "version": "0.0.1",
+  "main": "eslintrc.json",
+  "repository": "https://github.com/mderrier/eslint-config-lls.git",
+  "author": "mderrier <maximilien.derrier@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^3.14.1",
+    "eslint-config-airbnb": "^14.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-json": "^1.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.9.0"
+  }
+}
